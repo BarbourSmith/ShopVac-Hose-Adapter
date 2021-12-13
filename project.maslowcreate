@@ -261,7 +261,7 @@
                     "ioValues": [
                         {
                             "name": "Diameter",
-                            "ioValue": 43.3
+                            "ioValue": 43.5
                         },
                         {
                             "name": "Pitch",
@@ -308,7 +308,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 30
+                            "ioValue": 35
                         }
                     ]
                 },
