@@ -468,8 +468,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.8981481481481481,
-            "y": 0.7403846153846154,
+            "x": 0.8882275132275133,
+            "y": 0.7371794871794872,
             "uniqueID": 784737,
             "ioValues": [
                 {
@@ -583,5 +583,5 @@
     "simplify": false,
     "unitsIndex": 0,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.351"
+    "circleSegmentSize": "0.451"
 }
