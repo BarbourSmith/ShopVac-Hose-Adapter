@@ -4,6 +4,6 @@
 
 ![](/project.svg)
 
-This is ported from JSxCADÃÂ https://github.com/jsxcad/JSxCAD/blob/92f4cc9dcbb74f4cfbd85d41959a3fda06db7a5c/nb/projects/bolt/bolt.md
+This is ported from JSxCADÃÂÃÂ https://github.com/jsxcad/JSxCAD/blob/92f4cc9dcbb74f4cfbd85d41959a3fda06db7a5c/nb/projects/bolt/bolt.md
 
 

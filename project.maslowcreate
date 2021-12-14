@@ -254,8 +254,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Screw Thread",
-                    "x": 0.2208994708994709,
-                    "y": 0.22756410256410253,
+                    "x": 0.2222222222222222,
+                    "y": 0.2532051282051282,
                     "uniqueID": 845224,
                     "projectID": "437726795",
                     "ioValues": [
@@ -411,13 +411,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 845224,
-                    "ap2ID": 538769
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 4",
